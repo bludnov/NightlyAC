@@ -1,5 +1,0 @@
-name: NightlyAC
-version: '1.0-SNAPSHOT'
-main: wtf.sterfordovsky.nightlyanticheat.NightlyAC
-api-version: '1.16'
-depend: [ProtocolLib]
