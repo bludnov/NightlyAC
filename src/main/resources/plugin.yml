@@ -1,0 +1,5 @@
+name: NightlyAC
+version: '${project.version}'
+main: wtf.sterfordovsky.nightlyanticheat.NightlyAC
+api-version: '1.16'
+depend: [ProtocolLib]
